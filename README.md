@@ -2,7 +2,6 @@
 # Hey there! I'm Yash Mehta 👋  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yash-mehta-402239163) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YashM-235)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?style=flat&logo=vercel)](#)
 
 ---
 
