@@ -49,7 +49,7 @@ Driven Computer Science student passionate about building impactful software sol
 ### 🔥 Margdarshan ![Gemini API](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
 **Career Advisory Platform (ML-powered)**  
 **Tech Stack:** Flask, Gemini API  
-[🔗 GitHub](#) | [🚀 Demo](#)
+[🔗 GitHub](#https://github.com/YashM-235/Embrace-Well) | [🚀 Demo](#)
 
 ### 🔎 Server Log Analyzer ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 **Anomaly Detection on Server Logs**  
