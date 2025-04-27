@@ -19,7 +19,7 @@ Driven Computer Science student passionate about building impactful software sol
 
 ## 💼 Professional Experience
 **Software & API Intern @ MNNIT Allahabad**  
-*May 2024 – Present*  
+*May 2024 – July 2024*  
 • Developed REST APIs using Flask  
 • Optimized backend systems for academic services (20% performance gain)
 
