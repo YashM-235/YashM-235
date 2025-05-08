@@ -1,5 +1,6 @@
 
-# Hey there! I'm Yash Mehta 👋  
+# Hey there! I'm Yash Mehta 👋 
+# Hola amigos, soy Yash Mehta, soy principiante en español. Un placer conocerlos.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yash-mehta-402239163) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YashM-235)  
 
@@ -14,6 +15,7 @@ Driven Computer Science student passionate about building impactful software sol
 - 📚 Love experimenting with new tech stacks and frameworks
 - 🎥 Movie lover | 📖 Bookworm
 - Love to learn new things every day
+- BTech CSE 3rd Year Student at Bennett University (Greater Noida)
 ---
 
 ## 💼 Professional Experience
