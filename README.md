@@ -13,7 +13,7 @@ Driven Computer Science student passionate about building impactful software sol
 - 🚀 Building AI and data-driven solutions
 - 📚 Love experimenting with new tech stacks and frameworks
 - 🎥 Movie lover | 📖 Bookworm
-
+- Love to learn new things every day
 ---
 
 ## 💼 Professional Experience
@@ -59,8 +59,7 @@ Driven Computer Science student passionate about building impactful software sol
 ### 🏨 Room Allocation System ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 **Java GUI App for Hostel Management**  
 **Tech Stack:** Java, MySQL  
-[🔗 GitHub](#)
-
+[🔗 GitHub](https://github.com/YashM-235/super-Room)(#)
 ---
 
 ## 🧰 Tech Stack
