@@ -105,7 +105,6 @@ pie
 
 ```diff
 + Just pushed new hybrid model architecture!
-! Research paper under review at NeurIPS 2025
 # Currently hacking: Quantum Machine Learning prototypes
 ```
 
