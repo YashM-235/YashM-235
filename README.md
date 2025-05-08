@@ -1,6 +1,5 @@
 
-# Hey there! I'm Yash Mehta 👋 
-# Hola amigos, soy Yash Mehta, soy principiante en español. Un placer conocerlos.
+# Hey there! I'm Yash Mehta 👋 (Hola amigos, soy Yash Mehta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yash-mehta-402239163) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YashM-235)  
 
