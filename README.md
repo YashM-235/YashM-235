@@ -1,3 +1,4 @@
+
 # 🚀 Yash Mehta - AI & Full-Stack Innovator Extraordinaire
 
 ```python
@@ -10,6 +11,11 @@ while True:
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="400"/>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+the+Future+at+Planck+Time;Architecting+the+Singularity;Where+AI+Meets+Quantum+Reality;Programming+Reality+Since+2025" alt="Typing Matrix"/>
+</div>
 
 ## 👨‍💻 Cybernetic Profile Matrix
 
@@ -141,3 +147,9 @@ def collaborate():
 
 <h2 align="center">🚀 Ready to Launch Next-Gen Tech Solutions</h2>
 <h3 align="center">Innovation Velocity: Warp 9.9</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="500"/>
+  <br>
+  <em>"I don't break the rules - I compile new ones"</em>
+</div>
