@@ -1,5 +1,6 @@
 
 # 🚀 Yash Mehta - AI & Full-Stack Innovator Extraordinaire
+# Hobbies: Bookwork, Curiosity to learn
 
 ```python
 while True:
