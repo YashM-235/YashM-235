@@ -1,6 +1,7 @@
 
 # 🚀 Yash Mehta - AI & Full-Stack Innovator Extraordinaire
-# Bookwork, Curiosity to learn
+# Bookwork 
+# Curiosity to learn
 
 ```python
 while True:
