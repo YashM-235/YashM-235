@@ -1,4 +1,4 @@
-# 🎯 YASH MEHTA
+# 🎯 YASH
 ## Final Year CSE Student | AI Enthusiast | Full-Stack Developer
 
 <div align="center">
