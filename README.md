@@ -1,5 +1,4 @@
-# 🎯 YASH
-## Final Year CSE Student | AI Enthusiast | Full-Stack Developer
+## 🎯Final Year CSE Student | AI Engineer & Data Science Practitioner | Building Intelligent Systems
 
 <div align="center">
 
@@ -115,7 +114,7 @@ class TimeSeriesTransformer(nn.Module):
 - Creating REST APIs for model serving
 </details>
 
-[![View Project](https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/YashM-235)
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/YashM-235/Amazon-Stock-Price-Prediction)
 
 ---
 
@@ -136,6 +135,7 @@ class TimeSeriesTransformer(nn.Module):
 - 🗺️ Real-time geolocation features for crime reporting
 - 🎯 Focused on solving real-world problems
 
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/YashM-235/FIR-genie)
 ---
 
 ### 👁️ **Fog Detection using Computer Vision** | *Research Project*
