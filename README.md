@@ -1,4 +1,4 @@
-##🎯Final Year CSE Student | AI Engineer & Data Science Practitioner | Building Intelligent Systems
+## 🎯Final Year CSE Student | AI Engineer & Data Science Practitioner | Building Intelligent Systems
 
 <div align="center">
 
