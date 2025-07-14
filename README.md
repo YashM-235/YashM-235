@@ -252,7 +252,7 @@ mindmap
 + 🏆 Hackathon Winner - LexHack 1.0 "Innovation & Impact Award"
 + 📚 2 Research Papers (1 International Conference Presentation)
 + 🎓 6 Industry Certifications from NVIDIA, IBM, Google
-+ 📈 8.09 CGPA - Consistent Academic Excellence
++ 📈 7.95 CGPA - Consistent Academic Excellence
 + 🚀 500+ Students Helped Through Career Guidance Platform
 + 🌟 Featured in Bennett University Industry Showcase
 + 💻 1000+ Hours of Coding Experience Across Multiple Languages
@@ -270,17 +270,17 @@ mindmap
 
 ### **Current Education**
 - **B.Tech in Computer Science & Engineering** | Bennett University (2022-2026)
-  - **CGPA**: 8.09/10 
+  - **CGPA**: 7.95/10 
   - **Focus Areas**: Machine Learning, Software Engineering, Data Structures & Algorithms
   - **Final Year Project**: Advanced time series forecasting with transformer architectures
 
 ### **Certifications & Online Learning**
-- 🏅 **Fundamentals of Deep Learning** - NVIDIA
-- 🏅 **IBM Machine Learning Professional Certificate** - IBM (Coursera)
-- 🏅 **Introduction to Generative AI** - Google Cloud
-- 🏅 **Google Data Analytics Professional Certificate** - Google
-- 🏅 **Generative AI Fundamentals** - IBM
-- 🏅 **AI Foundations for Business** - IBM
+- 🏅 **Fundamentals of Deep Learning** - NVIDIA (https://learn.nvidia.com/certificates?id=y1TgN2K4SBWLBG9szfuKog)
+- 🏅 **IBM Machine Learning Professional Certificate** - IBM (Coursera) (https://coursera.org/share/7ae117774d78ea70b664c8ed92892d4a) 
+- 🏅 **Introduction to Generative AI** - Google Cloud (https://coursera.org/share/aba89c1a80b41760b05c0d4082d884d9)
+- 🏅 **Google Data Analytics Professional Certificate** - Google (https://coursera.org/share/78ca15b1194bc73415788be6e3838a0b)
+- 🏅 **Generative AI Fundamentals** - IBM (https://coursera.org/share/de7638e79f581fcd6d5eee3e177bcf64)
+- 🏅 **AI Foundations for Business** - IBM (https://coursera.org/share/399ff90f4d2f623f3a0220764bf0985d)
 
 ---
 
