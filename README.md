@@ -155,20 +155,6 @@ class TimeSeriesTransformer(nn.Module):
 - Model architecture experimentation
 - Real-time computer vision pipeline development
 
-**Research Papers:**
-
-1) Fake News Detection Using Machine Learning and Sentiment Analysis Integrated in a Flask Web Application
-
-   [![SocPros Paper](https://img.shields.io/badge/Open-Page%2089-blue?style=for-the-badge)](https://socpros2025.iitr.ac.in/wp-content/uploads/2025/04/Book_of_Abstracts_ScoProS_25.pdf#page=90)
-
-   (Earlier paper was published in Book of Abstracts, SocPros-25 (Soft Computing for Problem Solving), IIT Roorkee)
-
-   Update: Paper is in Publication with Springer. (More details soon)
-
-3) Mehta et. al., "Fog Detection Using Hybrid Deep Learning Models: A Multi-Modal CNN-LSTM Approach", IEEE, 7th International Conference on Computing, Communication and Automation (ICCCA), Galgotias University,    Greater Noida, pp 1-6, Nov 28-30, 2025. (DOI: 10.1109/ICCCA66364.2025.11325690)
-
-   [![IEEE Paper](https://img.shields.io/badge/IEEE-View%20Paper-blue?style=for-the-badge)](https://ieeexplore.ieee.org/document/11325690)
-
 ---
 
 ## 🧠 **RESEARCH EXPERIENCE & ACADEMIC WORK**
@@ -187,9 +173,23 @@ class TimeSeriesTransformer(nn.Module):
   - **Presented at SocProS 2025** - My first international conference!
 
 ### 🎓 **Academic Performance**
-- **CGPA**: 8.09/10 (Consistent academic excellence)
+- **CGPA**: 8.2/10 (Consistent academic excellence)
 - **Relevant Coursework**: Data Structures, Algorithms, Machine Learning, Database Systems, Software Engineering
 - **Key Projects**: 15+ academic and personal projects showcasing diverse skills
+
+###   **Research Papers:**
+
+  1) Fake News Detection Using Machine Learning and Sentiment Analysis Integrated in a Flask Web Application
+  
+     [![SocPros Paper](https://img.shields.io/badge/Open-Page%2089-blue?style=for-the-badge)](https://socpros2025.iitr.ac.in/wp-content/uploads/2025/04/Book_of_Abstracts_ScoProS_25.pdf#page=90)
+  
+     (Earlier paper was published in Book of Abstracts, SocPros-25 (Soft Computing for Problem Solving), IIT Roorkee)
+  
+     Update: Paper is in Publication with Springer. (More details soon)
+  
+  3) Mehta et. al., "Fog Detection Using Hybrid Deep Learning Models: A Multi-Modal CNN-LSTM Approach", IEEE, 7th International Conference on Computing, Communication and Automation (ICCCA), Galgotias University,    Greater Noida, pp 1-6, Nov 28-30, 2025. (DOI: 10.1109/ICCCA66364.2025.11325690)
+  
+     [![IEEE Paper](https://img.shields.io/badge/IEEE-View%20Paper-blue?style=for-the-badge)](https://ieeexplore.ieee.org/document/11325690)
 
 ---
 
