@@ -43,10 +43,10 @@ class YashMehta:
             "Problem Solving"
         ]
         self.achievements = {
-            "projects_built": 15,
-            "hackathon_wins": 1,
-            "certifications": 6,
-            "research_papers": 2
+            "projects_built"  : 15,
+            "hackathon_recog" : "LexHack 1.0 — Appreciated by Judges",
+            "certifications"  : 7,   # NVIDIA · IBM · Google · IIT Delhi
+            "research_papers" : 2,   # IEEE published · Springer in press
         }
         
     def career_goal(self):
@@ -118,12 +118,12 @@ class TimeSeriesTransformer(nn.Module):
 
 ---
 
-### ⚖️ **FIR Generator & Legal AI** | **LexHack**
+### ⚖️ **FIR Generator & Legal AI** | **LexHack 1.0**
 <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="180" align="right">
 
-**Award-Winning Solution at LexHack 1.0**
+**Judge-Recognized Idea at LexHack 1.0**
 
-• **Recognition**: 🏆 **"Innovation & Impact Award"** - My first major hackathon win!  
+• **Recognition**: 🌟 Appreciated & praised by judges for innovation and real-world impact  
 • **Problem Solved**: Streamlined legal complaint filing with AI assistance  
 • **Innovation**: Real-time location tracking + AI-powered legal guidance  
 • **Tech Challenge**: Integrated multiple APIs (Google Maps, Gemini AI) in 48 hours  
@@ -248,10 +248,10 @@ mindmap
 |--------------|------------------|-------------------|
 | **Programming** | Python, Java, C++, JavaScript | ⭐⭐⭐⭐⭐ |
 | **ML/AI** | TensorFlow, Scikit-learn, OpenCV, Pandas | ⭐⭐⭐⭐⭐ |
-| **Web Dev** | Flask, React, HTML/CSS, REST APIs | ⭐⭐⭐⭐⭐ |
-| **Databases** | MySQL, MongoDB | ⭐⭐⭐⭐⭐ |
+| **Web Dev** | Flask, React, HTML/CSS, REST APIs | ⭐⭐⭐⭐☆ |
+| **Databases** | MySQL, MongoDB | ⭐⭐⭐⭐☆ |
 | **Tools** | Git, Jupyter, Google Colab, Postman | ⭐⭐⭐⭐⭐ |
-| **Cloud** | Basic AWS, Docker (Learning) | ⭐⭐⭐⭐⭐ |
+| **Cloud** | Basic AWS, Docker (Learning) | ⭐⭐⭐☆☆ |
 
 ---
 
@@ -263,10 +263,10 @@ mindmap
 
 ```diff
 + 🎯 15+ Personal & Academic Projects Completed
-+ 🏆 Hackathon Winner - LexHack 1.0 "Innovation & Impact Award"
-+ 📚 2 Research Papers (1 International Conference Presentation)
-+ 🎓 6 Industry Certifications from NVIDIA, IBM, Google
-+ 📈 7.95 CGPA - Consistent Academic Excellence
++ 🌟 Appreciated by Judges at LexHack 1.0 for Innovation & Real-World Impact
++ 📚 2 Research Papers (IEEE Published · Springer In Press)
++ 🎓 7 Industry Certifications — NVIDIA, IBM, Google, IIT Delhi
++ 📈 8.2 CGPA - Consistent Academic Excellence
 + 🚀 500+ Students Helped Through Career Guidance Platform
 + 🌟 Featured in Bennett University Industry Showcase
 + 💻 1000+ Hours of Coding Experience Across Multiple Languages
@@ -295,6 +295,7 @@ mindmap
 - 🏅 **Google Data Analytics Professional Certificate** - Google (https://coursera.org/share/78ca15b1194bc73415788be6e3838a0b)
 - 🏅 **Generative AI Fundamentals** - IBM (https://coursera.org/share/de7638e79f581fcd6d5eee3e177bcf64)
 - 🏅 **AI Foundations for Business** - IBM (https://coursera.org/share/399ff90f4d2f623f3a0220764bf0985d)
+- 🏅 **Quantum Computing & Quantum Key Distribution (QKD)** - IIT Delhi (3-Day Workshop)
 
 ---
 
@@ -371,12 +372,18 @@ print("Ready to contribute, learn, and grow! 🚀")
   
   ---
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YashM-235&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0969da&text_color=c9d1d9&icon_color=0969da"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YashM-235&show_icons=true&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=0969da&text_color=c9d1d9&icon_color=0969da&border_color=0969da&border_radius=8&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashM-235&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0969da&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashM-235&layout=compact&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=0969da&text_color=c9d1d9&border_color=0969da&border_radius=8&langs_count=8&cache_seconds=1800"/>
+
+  <br>
+
+  <img src="https://streak-stats.demolab.com?user=YashM-235&theme=github-dark-blue&background=0d1117&border=0969da&ring=0969da&fire=ff6b35&currStreakLabel=0969da&border_radius=8"/>
   
   <br>
   
   **Final Year Student** | **Available for Internships** | **Graduating 2026** | **Ready to Make Impact**
   
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00f7ff15,100:7b2fff&height=120&section=footer&text=..&fontSize=18&fontColor=00f7ff&animation=twinkling&fontAlignY=70"/>
