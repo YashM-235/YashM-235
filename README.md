@@ -29,7 +29,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 </div>
 
-> **Passionate Computer Science student** with a love for building innovative solutions and exploring cutting-edge technologies. Currently in my final year at Bennett University with hands-on experience in **AI/ML projects**, **full-stack development**, and **research**. Eager to contribute to impactful projects and learn from industry experts.
+> **Passionate Computer Science student** with a love for building innovative solutions and exploring cutting-edge technologies. Currently in my final year at Bennett University with hands-on experience in **AI/ML projects**, **full-stack development**, and **research**. Eager to contribute to impactful projects and learn from industry experts. Exploring new technologies everyday.
 
 ```python
 class YashMehta:
