@@ -185,8 +185,12 @@ class TimeSeriesTransformer(nn.Module):
   
      (Earlier paper was published in Book of Abstracts, SocPros-25 (Soft Computing for Problem Solving), IIT Roorkee)
   
-     Update: Paper is in Publication with Springer. (More details soon)
-  
+     Update: Paper is in Publication with Springer. (More details soon..published)
+     
+  2) Fake News Detection Using Machine Learning and Sentiment Analysis Integrated in a Flask Web Application (2026), In: Pant, M., Deep, K., Nagar, A.K. (eds) Real-World Applications of Machine Learning. Mathematics for Sustainable Developments. Springer, Singapore.
+     
+  [![Springer Nature](https://img.shields.io/badge/%20Paper-blue?style=for-the-badge)](https://doi.org/10.1007/978-981-95-7134-5_23)
+
   3) Mehta et. al., "Fog Detection Using Hybrid Deep Learning Models: A Multi-Modal CNN-LSTM Approach", IEEE, 7th International Conference on Computing, Communication and Automation (ICCCA), Galgotias University,    Greater Noida, pp 1-6, Nov 28-30, 2025. (DOI: 10.1109/ICCCA66364.2025.11325690)
   
      [![IEEE Paper](https://img.shields.io/badge/IEEE-View%20Paper-blue?style=for-the-badge)](https://ieeexplore.ieee.org/document/11325690)
