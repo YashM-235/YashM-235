@@ -268,7 +268,7 @@ mindmap
 ```diff
 + 🎯 15+ Personal & Academic Projects Completed
 + 🌟 Appreciated by Judges at LexHack 1.0 for Innovation & Real-World Impact
-+ 📚 2 Research Papers (IEEE Published · Springer In Press)
++ 📚 2 Research Papers (IEEE Published · Springer Nature Published)
 + 🎓 7 Industry Certifications — NVIDIA, IBM, Google, IIT Delhi
 + 📈 8.2 CGPA - Consistent Academic Excellence
 + 🚀 500+ Students Helped Through Career Guidance Platform
