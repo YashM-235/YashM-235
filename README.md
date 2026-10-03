@@ -1,4 +1,4 @@
-## 🎯Final Year CSE Passout Student | AI Engineer & Data Science Practitioner | Building Intelligent Systems
+## 🎯CSE Passout Student | AI Engineer & Data Science Practitioner | Building Intelligent Systems
 
 <div align="center">
 
