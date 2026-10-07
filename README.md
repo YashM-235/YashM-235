@@ -386,7 +386,7 @@ print("Ready to contribute, learn, and grow! 🚀")
   
   <br>
   
-  **CSE Student** | **Available for Internships** | **Graduating 2026** | **Ready to Make Impact** | **Curious/Agog** 
+  **Undergrad CSE Student** | **Available for Internships** | **Graduating 2026** | **Ready to Make Impact** | **Curious/Agog** 
   
 </div>
 
