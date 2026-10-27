@@ -373,7 +373,7 @@ print("Ready to contribute, learn, and grow! 🚀")
   <br><br>
   
   ### 🎯 **"Learning never stops, and neither do I! [Sometimes procratination hits n sometimes it doesn't]"**
-  ### 🎯 **"Either Yes or No, no intermediate...sometimes pause for new surprises...Though surprises do the pause themselves"**
+  ### 🎯 **"Either Yes or No, no intermediate...sometimes pause for new surprises...Though surprises do the pause themselves, yet learning happens."**
   
   ---
   
