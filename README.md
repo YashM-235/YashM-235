@@ -332,7 +332,7 @@ mindmap
   <a href="mailto:yash34m6@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://myportfolio-nine-pi-19.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Work-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 
