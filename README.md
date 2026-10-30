@@ -299,7 +299,7 @@ mindmap
 - 🏅 **Google Data Analytics Professional Certificate** - Google (https://coursera.org/share/78ca15b1194bc73415788be6e3838a0b)
 - 🏅 **Generative AI Fundamentals** - IBM (https://coursera.org/share/de7638e79f581fcd6d5eee3e177bcf64)
 - 🏅 **AI Foundations for Business** - IBM (https://coursera.org/share/399ff90f4d2f623f3a0220764bf0985d)
-- 🏅 **Quantum Computing & Quantum Key Distribution (QKD)** - IIT Delhi (3-Day Workshop)
+- 🏅 **Quantum Computing & Quantum Key Distribution (QKD)** - IIT Delhi (3-Day Workshop) (https://drive.google.com/file/d/180pnw_KIh2j1d-2f0UPiZ08sbPvuFtr6/view?usp=drive_link)
 
 ---
 
