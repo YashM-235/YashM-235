@@ -1,4 +1,4 @@
-## 🎯Final Year CSE Student | AI Engineer & Data Science Practitioner | Building Intelligent Systems
+## 🎯Final Year CSE Passout | AI Engineer & Data Science Practitioner | Building Intelligent Systems
 
 <div align="center">
 
@@ -384,7 +384,7 @@ print("Ready to contribute, learn, and grow! 🚀")
   <br>
 
   <img src="https://streak-stats.demolab.com?user=YashM-235&theme=github-dark-blue&background=0d1117&border=0969da&ring=0969da&fire=ff6b35&currStreakLabel=0969da&border_radius=8"/>
-  
+  Maybe it's not updating properly
   <br>
   
   **Undergrad CSE Student** | **Available for Internships** | **Graduating 2026** | **Ready to Make Impact** | **Curious/Agog** 
